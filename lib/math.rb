@@ -1,5 +1,6 @@
 def addition(num1, num2)
-  sum = "0" + "1"
+  5+4=9
+  sum=9
   puts sum
 end
 
